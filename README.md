@@ -12,5 +12,5 @@ Shell script to monitor server performance.
     <li>Execute the script with <code>./server-stats.sh</code>.</li>
 </ul>
 
-#Project URL 
+# Project URL 
 https://roadmap.sh/projects/server-stats
